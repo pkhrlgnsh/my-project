@@ -1,5 +1,2 @@
 # my-project
-<br>
-hoho
-Ganesh
-clea
+Working on this project to sort out some design issues.
